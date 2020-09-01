@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Help!-一款能救命的App
 
-You can use the [editor on GitHub](https://github.com/lennylede/Help/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Help！是一个锁屏程序，它可以通过GPS、WIFI、基站等多种方式定位你的位置，并在需要时以极其方便、快捷的将位置信息发送给设置好的邮箱或以短信的形式发送给指定的手机。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+它还可以设定信息发送时间间隔，实时获取地理位置，循环发送信息，有效避免信息发送失败的情况。
 
 ### Markdown
 
