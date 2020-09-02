@@ -15,9 +15,11 @@ Help！是一个锁屏程序，它可以通过GPS、WIFI、基站等多种方式
 为Help!授予所需要权限，如果拒绝，它将无法使用。
 
 （1）普通权限
+
 <img src="https://img2020.cnblogs.com/blog/354017/202009/354017-20200902090837601-53895186.png" width="280px" height="497px">
 
 （2）特殊权限
+
 <img src="https://img2020.cnblogs.com/blog/354017/202009/354017-20200902091005162-1495933727.png" width="280px" height="497px">
 
 #### Step 2
