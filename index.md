@@ -16,25 +16,25 @@ Help！是一个锁屏程序，它可以通过GPS、WIFI、基站等多种方式
 
 （1）普通权限
 
-<img src="https://img2020.cnblogs.com/blog/354017/202009/354017-20200902090837601-53895186.png" width="280px" height="497px">
+<img src="https://i.ibb.co/Z2NFtGX/image.png" width="280px" height="497px">
 
 （2）特殊权限
 
-<img src="https://img2020.cnblogs.com/blog/354017/202009/354017-20200902091005162-1495933727.png" width="280px" height="497px">
+<img src="https://i.ibb.co/kV7LW36/image.png" width="280px" height="497px">
 
 #### Step 2
 
 设置邮箱相关信息，包括邮箱服务器地址，发送邮箱账户，接收邮箱地址。
 
-<img src="https://img2020.cnblogs.com/blog/354017/202009/354017-20200902091543970-719444568.png" width="280px" height="497px">
+<img src="https://i.ibb.co/pfBKfX3/1.png" width="280px" height="497px">
 
-<img src="https://img2020.cnblogs.com/blog/354017/202009/354017-20200902091515698-564155985.png" width="280px" height="497px">
+<img src="https://i.ibb.co/n7LzM6T/2.png" width="280px" height="497px">
 
 #### Step 3
 
 设置接受位置信息的手机号
 
-<img src="https://img2020.cnblogs.com/blog/354017/202009/354017-20200902091913661-30920194.png" width="280px" height="497px">
+<img src="https://i.ibb.co/dbqPRKm/image.png" width="280px" height="497px">
 
 #### Step 4
 
@@ -42,7 +42,7 @@ Help！是一个锁屏程序，它可以通过GPS、WIFI、基站等多种方式
 
 设置信息发送时间间隔，当锁屏启动后，如果不解锁，它会每隔一段时间就发送一次信息。
 
-<img src="https://img2020.cnblogs.com/blog/354017/202009/354017-20200902092037274-331964760.png" width="280px" height="497px">
+<img src="https://i.ibb.co/0hJ5724/image.png" width="280px" height="497px">
 
 ### 它都需要什么权限
 
