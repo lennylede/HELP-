@@ -58,7 +58,7 @@ Help!不需要登录，也不会将获取的信息发送到指定的电话和邮
 
 ### 如何安装
 
-你可以到这里（）下载apk安装包。
+你可以到这里（https://github.com/lennyleede/HelpApp/blob/gh-pages/Help!.apk）下载apk安装包。
 
 ### 后续功能
 
