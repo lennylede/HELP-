@@ -1,6 +1,6 @@
 ## Help! 一款能救命的App
 
-<img src="https://img2020.cnblogs.com/blog/354017/202009/354017-20200902092220943-921571084.png">
+<img src="https://img2020.cnblogs.com/blog/354017/202009/354017-20200902092220943-921571084.png" width="50%" height="50%">
 
 Help！是一个锁屏程序，它可以通过GPS、WIFI、基站等多种方式定位你的位置，并在需要时以极其方便、快捷的将位置信息发送给设置好的邮箱或以短信的形式发送给指定的手机。
 
@@ -54,30 +54,4 @@ Help!不需要登录，也不会将获取的信息发送到指定的电话和邮
 
 Help!的参考了多个社区里的开源代码，在此向这些源码的作者表示感谢。因为目前Help!的代码结构缺乏可读性，整理好后会开源。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
- 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lennylede/Help/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
